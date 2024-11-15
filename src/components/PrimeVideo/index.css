@@ -1,0 +1,17 @@
+.prime-img {
+  width: 100%;
+}
+
+.prime-bg-container {
+  background-color: #000000;
+  color: #ffffff;
+  min-height: 100vh;
+}
+
+.movies-container {
+  padding: 12px;
+}
+
+.slider-container {
+  padding: 40px;
+}

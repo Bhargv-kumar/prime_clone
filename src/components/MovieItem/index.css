@@ -1,0 +1,30 @@
+.thumbnail-img {
+  width: 100%;
+  padding: 12px;
+}
+
+.trigger-button {
+  background-color: transparent;
+  border: 0px;
+  padding: 0px;
+  outline: none;
+}
+
+.trailer-container {
+  background: white;
+  padding: 12px;
+  width: 542px;
+  height: 50vh;
+  max-height: 1276px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  border-radius: 18px;
+}
+
+.close-icon {
+  margin: 4px;
+  align-self: flex-end;
+  font-size: 34px;
+}
